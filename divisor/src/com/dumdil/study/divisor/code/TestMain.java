@@ -1,4 +1,4 @@
-package com.dumdil.study.divisor;
+package com.dumdil.study.divisor.code;
 
 public class TestMain {
 	

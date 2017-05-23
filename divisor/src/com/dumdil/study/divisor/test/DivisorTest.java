@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.dumdil.study.divisor.Divisor;
+import com.dumdil.study.divisor.code.Divisor;
 
 public class DivisorTest {
 
